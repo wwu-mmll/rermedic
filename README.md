@@ -10,19 +10,19 @@ Diese **README enthält drei Guides**:
 Diese **Guides füllen Lücken in den öffentlichen Infos**.
 
 ### Abgabe von Unterlagen beim Prüfungsamt & Dekanat
-**Unterlagen ans Dekanat & Prüfungsamt** können
+Unterlagen ans Dekanat & Prüfungsamt können
 - entweder per Post geschickt: Dekanat der Medizinischen Fakultät, Promotionsbüro, Domagkstraße 3, 48149 Münster
 - oder selbst eingeworfen werden: Weißer Briefkasten [hier](https://maps.app.goo.gl/A2r2fkezERvZzkHi8)
 
 # Guide für die Anmeldung zum rer. medic.
 
-Die [Orga-Website](https://www.medizin.uni-muenster.de/fakultaet/forschung/foerderung-karriere/promotion-organisieren.html) beschreibt unter **Anmeldung und Einschreibung zum Zwecke der Promotion** zwei Schritte zur Einschreibung.
+Die [Orga-Website](https://www.medizin.uni-muenster.de/fakultaet/forschung/foerderung-karriere/promotion-organisieren.html) beschreibt unter **Anmeldung und Einschreibung zum Zwecke der Promotion** 2 Schritte zur Einschreibung.
 
 Es fehlt **Schritt 0** (Zulassungsprüfung durch das Dekanat).
 
 ### Schritt 0: Zulassung
 
-Zur Zulassungsprüfung durch das Dekanat müssen folgende Unterlagen dort [abgegeben]() werden:
+Zur Zulassungsprüfung durch das Dekanat müssen folgende Unterlagen dort [abgegeben](https://github.com/wwu-mmll/rermedic?tab=readme-ov-file#abgabe-von-unterlagen-beim-pr%C3%BCfungsamt--dekanat) werden:
 
 1. Original oder beglaubigte Kopie von Abitur, Bachelor- und Masterzeugnis
 2. Lebenslauf
@@ -158,7 +158,7 @@ Die Vollständigkeit der Scheine kann **nicht** im Vorhinein per Mail abgesproch
 
 Alle Scheine müssen ans Prüfungsamt gesendet werden, und zwar doppelt (1. + 2.):
 1. digital per Mail (am besten an beide Ansprechpartnerinnen [hier](https://www.medizin.uni-muenster.de/fakultaet/fakultaet/dekanat/referate-team/promotionsbuero.html))
-2. [im Original]() (keine Sorge, werden nach Prüfung zurückgeschickt)
+2. [im Original](https://github.com/wwu-mmll/rermedic?tab=readme-ov-file#abgabe-von-unterlagen-beim-pr%C3%BCfungsamt--dekanat) (keine Sorge, werden nach Prüfung zurückgeschickt)
 
 Das Ergebnis kommt nach ca. 2 Wochen per Mail (vom [Ansprechpartner -> Lehre -> rer.medic. Studium](https://www.medizin.uni-muenster.de/epi/institut/ansprechpartner.html)).
 
