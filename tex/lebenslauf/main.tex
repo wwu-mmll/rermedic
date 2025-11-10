@@ -1,0 +1,60 @@
+\documentclass{resume}
+
+\begin{document}
+
+\fontfamily{ppl}\selectfont
+
+\noindent
+\begin{tabularx}{\linewidth}{@{}m{0.8\textwidth} m{0.2\textwidth}@{}}
+{
+    \Large{Max Mustermann} \newline
+    \small{
+        \clink{
+            \href{mailto:max@wwu.de}{max@wwu.de} \textbf{·} 
+            {\fontdimen2\font=0.75ex 0176 000 000 00} 
+        } \newline
+        Parkstraße 1 - 13086 Berlin
+    }
+} & 
+{
+    \hfill
+\includegraphics[scale=0.05]{images/passfoto.jpg}
+}
+\end{tabularx}
+\vspace{-13pt}
+\begin{center}
+\begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
+% left side %
+{
+    \csection{Persönliche Daten}{\small
+        \begin{itemize}[leftmargin=30mm]
+            \item[Geburtsdaten:] {1. Januar 2000 in Berlin}
+        \end{itemize}
+    }
+    \csection{Studium \& beruflicher Werdegang}{\small
+        \begin{itemize}
+            \item \frcontent{Studium 2}{Uni 2, Berlin}{Abschlussarbeit: Diesdas}{Oktober 2003 - Oktober 2005}
+            \item \frcontent{Studium 1}{Uni 1, Berlin}{Abschlussarbeit: Diesdas}{Oktober 2000 - Oktober 2003}
+            \item \frcontent{Abitur}{XY Gymnasium}{BERLIN}{2000}
+        \end{itemize}
+    }
+} 
+% end left side %
+& \vspace{-0.82\baselineskip}
+% right side %
+{
+    \csection{Qualifikationen}{\small
+        \begin{itemize}
+            \item \textbf{Führerschein} \newline
+            {\footnotesize Vorhanden}{}{}
+        \end{itemize}
+    }
+    \csection{Lehre}{\small
+        \begin{itemize}
+            \item ...
+        \end{itemize}
+    }
+}
+\end{tabularx}
+\end{center}
+\end{document}
