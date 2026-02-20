@@ -57,7 +57,7 @@ Zusammen mit den Scheinen müssen Nachweise zu **mindestens 2 zitierfähigen Abs
 Als Nachweis für ein Paper gilt bspw. der Ausdruck der im Journal veröffentlichten Version des Papers.
 
 ### Benötigte Scheine
-Welche Scheine nötig sind, regelt offiziell die [Promotionsordnung](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/fakultaet/dekanat/promotion/Studienordnung_fuer_den_Promotionsstudiengang_rer.medic.pdf) ([Orga-Website](https://www.medizin.uni-muenster.de/fakultaet/forschung/foerderung-karriere/promotion-organisieren.html) -> Hilfreiche Links). Die [Vorlage](./word/nachweise_promotion.docx) kann zum sammeln der Scheine genutzt werden.
+Welche Scheine nötig sind, regelt offiziell die [Promotionsordnung](https://www.medizin.uni-muenster.de/fileadmin/einrichtung/fakultaet/dekanat/promotion/Studienordnung_fuer_den_Promotionsstudiengang_rer.medic.pdf) ([Orga-Website](https://www.medizin.uni-muenster.de/fakultaet/forschung/foerderung-karriere/promotion-organisieren.html) -> Hilfreiche Links). Die [Vorlage](./word/nachweise_promotion.docx) kann zum Sammeln der Scheine genutzt werden.
 
 Das **Prüfungsamt hat einen Ermessenspielraum** ob Veranstaltungen als bspw. "Ethik der Medizin" gelten.
 
